@@ -1,6 +1,6 @@
 #Alejandra Rodriguez Guevara 21310127 6E1
 
-#
+#La lógica modal es una extensión de la lógica proposicional o de primer orden que permite expresar y razonar sobre la modalidad.
 
 class Mundo:
     def __init__(self, nombre, relaciones=None):
