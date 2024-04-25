@@ -1,6 +1,6 @@
 #Alejandra Rodriguez Guevara 21310127 6E1
 
-#
+#El "Espacio de Versiones" es un concepto teórico en el contexto del aprendizaje automático que representa todas las posibles hipótesis consistentes con un conjunto dado de ejemplos de entrenamiento.
 
 class AQ:
     def __init__(self):
